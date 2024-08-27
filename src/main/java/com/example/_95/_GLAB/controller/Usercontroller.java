@@ -30,7 +30,7 @@ public class Usercontroller {
     {
         User u1 = new User(1,"haseeb","haseeb@gmail.com");
         User u2 = new User(2,"Josph","Josph@gmail.com");
-        User u3 = new User(3,"Ameer","Ameer@gmail.com");
+        User u3 = new User(3,"Ameer","Ameer@gmaigit l.com");
         List <User> myuser = new ArrayList< >();
         myuser.add(u1);
         myuser.add(u2);
